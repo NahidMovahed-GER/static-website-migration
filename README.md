@@ -1,4 +1,4 @@
-# Static Website Migration
+# Static Website Migration (wird erweitert!)
 
 Dieses Projekt demonstriert, wie eine statische Website mithilfe von Docker containerisiert und anschließend auf einem Cloud-Server (Hetzner) bereitgestellt wird.
 Der Fokus liegt darauf, eine reproduzierbare, serverunabhängige Deployment-Umgebung zu schaffen, ein wichtiger Bestandteil moderner DevOps-Workflows.
